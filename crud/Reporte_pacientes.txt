@@ -1,0 +1,15 @@
+
+ID: 1
+Nombre: Anabela
+Edad: 18
+Diagnóstico: depresion
+Teléfono: 8785858
+Email: Gfa@gmail.com
+----------------------------
+ID: 2
+Nombre: Ana
+Edad: 18
+Diagnóstico: depresion
+Teléfono: 8785858
+Email: Gfa@gmail.com
+----------------------------
